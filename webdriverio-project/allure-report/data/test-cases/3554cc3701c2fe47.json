@@ -1,0 +1,58 @@
+{
+  "uid" : "3554cc3701c2fe47",
+  "name" : "When I navigate to SignUp page",
+  "fullName" : "Perform product purchasal: Create a new user account.When I navigate to SignUp page",
+  "historyId" : "515cf380176ee137a31dff3434cda03a",
+  "time" : {
+    "start" : 1638971560580,
+    "stop" : 1638971563579,
+    "duration" : 2999
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Perform product purchasal: Create a new user account"
+  }, {
+    "name" : "testClass",
+    "value" : "Perform product purchasal: Create a new user account"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I navigate to SignUp page"
+  }, {
+    "name" : "package",
+    "value" : "Perform product purchasal: Create a new user account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3554cc3701c2fe47.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

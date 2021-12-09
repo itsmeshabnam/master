@@ -1,0 +1,66 @@
+{
+  "uid" : "efe76ae5a4f489d0",
+  "name" : "",
+  "fullName" : "Perform product purchasal: Sign out and sign in user.",
+  "historyId" : "7b7168c1ffeee3485c9c3f57587720e6",
+  "time" : {
+    "start" : 1638971659181,
+    "stop" : 1638971659182,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Perform product purchasal: Sign out and sign in user"
+  }, {
+    "name" : "testClass",
+    "value" : "Perform product purchasal: Sign out and sign in user"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Perform product purchasal: Sign out and sign in user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ab3bd94057b989dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638971640022,
+        "stop" : 1638971640023,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "efe76ae5a4f489d0.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

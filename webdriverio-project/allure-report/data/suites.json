@@ -1,0 +1,242 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Perform product purchasal: Create a new user account",
+    "children" : [ {
+      "name" : "Given I am on the home page",
+      "uid" : "c5661a11a074d4bb",
+      "parentUid" : "f5b58df27ee6491008a530e05c3d14a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638971547888,
+        "stop" : 1638971560580,
+        "duration" : 12692
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "When I navigate to SignUp page",
+      "uid" : "3554cc3701c2fe47",
+      "parentUid" : "f5b58df27ee6491008a530e05c3d14a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638971560580,
+        "stop" : 1638971563579,
+        "duration" : 2999
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "Then I should create a new user account",
+      "uid" : "761afb093dd4c37",
+      "parentUid" : "f5b58df27ee6491008a530e05c3d14a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638971563579,
+        "stop" : 1638971637149,
+        "duration" : 73570
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "",
+      "uid" : "44fc9d22da65b35c",
+      "parentUid" : "f5b58df27ee6491008a530e05c3d14a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638971637149,
+        "stop" : 1638971637150,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    } ],
+    "uid" : "f5b58df27ee6491008a530e05c3d14a7"
+  }, {
+    "name" : "Perform product purchasal: Validate firstname and lastname on home page",
+    "children" : [ {
+      "name" : "Given I am on the My account page",
+      "uid" : "2cc195b74e4c8b37",
+      "parentUid" : "d83e258cad74ae17a3855db0b78ae980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638971637162,
+        "stop" : 1638971637216,
+        "duration" : 54
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "When I navigate to home page",
+      "uid" : "64b659b3dd20878e",
+      "parentUid" : "d83e258cad74ae17a3855db0b78ae980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638971637216,
+        "stop" : 1638971639794,
+        "duration" : 2578
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "Then Verify firstname and lastname",
+      "uid" : "eedf40e72fe96e37",
+      "parentUid" : "d83e258cad74ae17a3855db0b78ae980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638971639794,
+        "stop" : 1638971640009,
+        "duration" : 215
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "",
+      "uid" : "9fb008315b025cb1",
+      "parentUid" : "d83e258cad74ae17a3855db0b78ae980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638971640009,
+        "stop" : 1638971640009,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    } ],
+    "uid" : "d83e258cad74ae17a3855db0b78ae980"
+  }, {
+    "name" : "Perform product purchasal: Sign out and sign in user",
+    "children" : [ {
+      "name" : "Given I am on the home page",
+      "uid" : "3cc110cf749531b3",
+      "parentUid" : "7570b8d717a4699f55ec46d5bb016c24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638971640023,
+        "stop" : 1638971647456,
+        "duration" : 7433
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "When I Sign out from application",
+      "uid" : "f810b979c50f7852",
+      "parentUid" : "7570b8d717a4699f55ec46d5bb016c24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638971647457,
+        "stop" : 1638971650251,
+        "duration" : 2794
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "Then Sign in into user account",
+      "uid" : "e1511446bb9ae95c",
+      "parentUid" : "7570b8d717a4699f55ec46d5bb016c24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638971650251,
+        "stop" : 1638971659181,
+        "duration" : 8930
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "",
+      "uid" : "efe76ae5a4f489d0",
+      "parentUid" : "7570b8d717a4699f55ec46d5bb016c24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638971659181,
+        "stop" : 1638971659182,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    } ],
+    "uid" : "7570b8d717a4699f55ec46d5bb016c24"
+  }, {
+    "name" : "Perform product purchasal: Checkout product and verify product details",
+    "children" : [ {
+      "name" : "Given I am signed in with created user credentials",
+      "uid" : "f4e28e551fe1def3",
+      "parentUid" : "63fe609fa9268dcbe484ec970b1b27a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638971659190,
+        "stop" : 1638971659281,
+        "duration" : 91
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "When I add product Printed Dress to cart",
+      "uid" : "fc77fc9609bf7013",
+      "parentUid" : "63fe609fa9268dcbe484ec970b1b27a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638971659281,
+        "stop" : 1638971665338,
+        "duration" : 6057
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "Then I navigate to payments page",
+      "uid" : "753f1362bd0a2ddc",
+      "parentUid" : "63fe609fa9268dcbe484ec970b1b27a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638971665339,
+        "stop" : 1638971707431,
+        "duration" : 42092
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "And Verify Printed Dress Product details",
+      "uid" : "b17eb2687485f05a",
+      "parentUid" : "63fe609fa9268dcbe484ec970b1b27a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638971707431,
+        "stop" : 1638971707480,
+        "duration" : 49
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "",
+      "uid" : "d5a25415c4650459",
+      "parentUid" : "63fe609fa9268dcbe484ec970b1b27a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638971707480,
+        "stop" : 1638971707482,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    } ],
+    "uid" : "63fe609fa9268dcbe484ec970b1b27a7"
+  } ]
+}

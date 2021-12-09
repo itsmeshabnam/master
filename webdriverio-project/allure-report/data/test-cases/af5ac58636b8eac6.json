@@ -1,0 +1,56 @@
+{
+  "uid" : "af5ac58636b8eac6",
+  "name" : "",
+  "fullName" : "Perform product purchasal: Validate firstname and lastname on home page.",
+  "historyId" : "7f7e0711a076bb5be59c43f91c0ec743",
+  "time" : {
+    "start" : 1638971637162,
+    "stop" : 1638971637162,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Perform product purchasal: Validate firstname and lastname on home page"
+  }, {
+    "name" : "testClass",
+    "value" : "Perform product purchasal: Validate firstname and lastname on home page"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Perform product purchasal: Validate firstname and lastname on home page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "af5ac58636b8eac6.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

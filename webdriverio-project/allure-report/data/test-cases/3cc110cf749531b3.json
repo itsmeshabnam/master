@@ -1,0 +1,58 @@
+{
+  "uid" : "3cc110cf749531b3",
+  "name" : "Given I am on the home page",
+  "fullName" : "Perform product purchasal: Sign out and sign in user.Given I am on the home page",
+  "historyId" : "76c0f54f8b0d425a91df48f57078d370",
+  "time" : {
+    "start" : 1638971640023,
+    "stop" : 1638971647456,
+    "duration" : 7433
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Perform product purchasal: Sign out and sign in user"
+  }, {
+    "name" : "testClass",
+    "value" : "Perform product purchasal: Sign out and sign in user"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the home page"
+  }, {
+    "name" : "package",
+    "value" : "Perform product purchasal: Sign out and sign in user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3cc110cf749531b3.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

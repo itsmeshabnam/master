@@ -1,0 +1,48 @@
+{
+  "total" : 4,
+  "items" : [ {
+    "uid" : "63fe609fa9268dcbe484ec970b1b27a7",
+    "name" : "Perform product purchasal: Checkout product and verify product details",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "f5b58df27ee6491008a530e05c3d14a7",
+    "name" : "Perform product purchasal: Create a new user account",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "d83e258cad74ae17a3855db0b78ae980",
+    "name" : "Perform product purchasal: Validate firstname and lastname on home page",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "7570b8d717a4699f55ec46d5bb016c24",
+    "name" : "Perform product purchasal: Sign out and sign in user",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  } ]
+}

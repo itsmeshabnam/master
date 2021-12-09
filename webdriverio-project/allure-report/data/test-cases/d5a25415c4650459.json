@@ -1,0 +1,66 @@
+{
+  "uid" : "d5a25415c4650459",
+  "name" : "",
+  "fullName" : "Perform product purchasal: Checkout product and verify product details.",
+  "historyId" : "d37a570c81ba66400923cefc6e6e31d4",
+  "time" : {
+    "start" : 1638971707480,
+    "stop" : 1638971707482,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Perform product purchasal: Checkout product and verify product details"
+  }, {
+    "name" : "testClass",
+    "value" : "Perform product purchasal: Checkout product and verify product details"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Perform product purchasal: Checkout product and verify product details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b74f589836134743",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638971659189,
+        "stop" : 1638971659190,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d5a25415c4650459.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

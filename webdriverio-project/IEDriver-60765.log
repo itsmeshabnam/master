@@ -1,0 +1,6 @@
+I 2021-11-09 21:12:47:832 E:\github\selenium\cpp\webdriver-server\server.cc(87) Starting WebDriver server on port: '60765' on host: ''
+I 2021-11-09 21:12:47:833 E:\github\selenium\cpp\iedriver\IEServer.cpp(33) Driver version: 3.150.1.0 (32-bit)
+I 2021-11-09 21:12:57:928 E:\github\selenium\cpp\iedriver\IECommandExecutor.cpp(1368) Persistent hovering set to: 0
+W 2021-11-09 21:13:00:162 E:\github\selenium\cpp\iedriver\Browser.cpp(67) A new browser process was requested. This means a Protected Mode boundary has been crossed, and that future commands to the current browser instance will fail. The driver will attempt to reconnect to the newly created browser object, but there is no guarantee it will work.
+I 2021-11-09 21:18:00:270 E:\github\selenium\cpp\iedriver\Browser.cpp(307) Flushing window handle as it is no longer valid
+I 2021-11-09 21:18:00:270 E:\github\selenium\cpp\iedriver\Browser.cpp(312) Restore window handle from tab

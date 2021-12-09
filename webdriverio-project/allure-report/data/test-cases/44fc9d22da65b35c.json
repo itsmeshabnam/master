@@ -1,0 +1,66 @@
+{
+  "uid" : "44fc9d22da65b35c",
+  "name" : "",
+  "fullName" : "Perform product purchasal: Create a new user account.",
+  "historyId" : "7934a8d7046f1491ab96322d8d10fdbf",
+  "time" : {
+    "start" : 1638971637149,
+    "stop" : 1638971637150,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Perform product purchasal: Create a new user account"
+  }, {
+    "name" : "testClass",
+    "value" : "Perform product purchasal: Create a new user account"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Perform product purchasal: Create a new user account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b6e9019476cabcbb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638971547877,
+        "stop" : 1638971547887,
+        "duration" : 10
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "44fc9d22da65b35c.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

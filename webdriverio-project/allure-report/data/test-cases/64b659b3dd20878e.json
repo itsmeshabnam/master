@@ -1,0 +1,58 @@
+{
+  "uid" : "64b659b3dd20878e",
+  "name" : "When I navigate to home page",
+  "fullName" : "Perform product purchasal: Validate firstname and lastname on home page.When I navigate to home page",
+  "historyId" : "2240f56293f243c9b9ce1b1d5df8245",
+  "time" : {
+    "start" : 1638971637216,
+    "stop" : 1638971639794,
+    "duration" : 2578
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Perform product purchasal: Validate firstname and lastname on home page"
+  }, {
+    "name" : "testClass",
+    "value" : "Perform product purchasal: Validate firstname and lastname on home page"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I navigate to home page"
+  }, {
+    "name" : "package",
+    "value" : "Perform product purchasal: Validate firstname and lastname on home page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "64b659b3dd20878e.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

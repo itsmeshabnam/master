@@ -1,0 +1,171 @@
+[ {
+  "uid" : "b17eb2687485f05a",
+  "name" : "And Verify Printed Dress Product details",
+  "time" : {
+    "start" : 1638971707431,
+    "stop" : 1638971707480,
+    "duration" : 49
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c5661a11a074d4bb",
+  "name" : "Given I am on the home page",
+  "time" : {
+    "start" : 1638971547888,
+    "stop" : 1638971560580,
+    "duration" : 12692
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9fb008315b025cb1",
+  "name" : "",
+  "time" : {
+    "start" : 1638971640009,
+    "stop" : 1638971640009,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "753f1362bd0a2ddc",
+  "name" : "Then I navigate to payments page",
+  "time" : {
+    "start" : 1638971665339,
+    "stop" : 1638971707431,
+    "duration" : 42092
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc77fc9609bf7013",
+  "name" : "When I add product Printed Dress to cart",
+  "time" : {
+    "start" : 1638971659281,
+    "stop" : 1638971665338,
+    "duration" : 6057
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4e28e551fe1def3",
+  "name" : "Given I am signed in with created user credentials",
+  "time" : {
+    "start" : 1638971659190,
+    "stop" : 1638971659281,
+    "duration" : 91
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eedf40e72fe96e37",
+  "name" : "Then Verify firstname and lastname",
+  "time" : {
+    "start" : 1638971639794,
+    "stop" : 1638971640009,
+    "duration" : 215
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3cc110cf749531b3",
+  "name" : "Given I am on the home page",
+  "time" : {
+    "start" : 1638971640023,
+    "stop" : 1638971647456,
+    "duration" : 7433
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2cc195b74e4c8b37",
+  "name" : "Given I am on the My account page",
+  "time" : {
+    "start" : 1638971637162,
+    "stop" : 1638971637216,
+    "duration" : 54
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f810b979c50f7852",
+  "name" : "When I Sign out from application",
+  "time" : {
+    "start" : 1638971647457,
+    "stop" : 1638971650251,
+    "duration" : 2794
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e1511446bb9ae95c",
+  "name" : "Then Sign in into user account",
+  "time" : {
+    "start" : 1638971650251,
+    "stop" : 1638971659181,
+    "duration" : 8930
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "efe76ae5a4f489d0",
+  "name" : "",
+  "time" : {
+    "start" : 1638971659181,
+    "stop" : 1638971659182,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3554cc3701c2fe47",
+  "name" : "When I navigate to SignUp page",
+  "time" : {
+    "start" : 1638971560580,
+    "stop" : 1638971563579,
+    "duration" : 2999
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64b659b3dd20878e",
+  "name" : "When I navigate to home page",
+  "time" : {
+    "start" : 1638971637216,
+    "stop" : 1638971639794,
+    "duration" : 2578
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44fc9d22da65b35c",
+  "name" : "",
+  "time" : {
+    "start" : 1638971637149,
+    "stop" : 1638971637150,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5a25415c4650459",
+  "name" : "",
+  "time" : {
+    "start" : 1638971707480,
+    "stop" : 1638971707482,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "761afb093dd4c37",
+  "name" : "Then I should create a new user account",
+  "time" : {
+    "start" : 1638971563579,
+    "stop" : 1638971637149,
+    "duration" : 73570
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

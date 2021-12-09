@@ -1,0 +1,58 @@
+{
+  "uid" : "f810b979c50f7852",
+  "name" : "When I Sign out from application",
+  "fullName" : "Perform product purchasal: Sign out and sign in user.When I Sign out from application",
+  "historyId" : "902fcf6e58b35bb1c0799bf50b09183e",
+  "time" : {
+    "start" : 1638971647457,
+    "stop" : 1638971650251,
+    "duration" : 2794
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Perform product purchasal: Sign out and sign in user"
+  }, {
+    "name" : "testClass",
+    "value" : "Perform product purchasal: Sign out and sign in user"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I Sign out from application"
+  }, {
+    "name" : "package",
+    "value" : "Perform product purchasal: Sign out and sign in user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f810b979c50f7852.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}
