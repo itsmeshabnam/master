@@ -23,8 +23,7 @@ exports.config = {
    // specs: ["./features/**/signup.feature", "./features/**/productpurchase.feature"],
 
    specs: ["./features/**/shopProduct.feature"],
-   //specs: ["./features/*.feature"],
-   //, "./features/**/productpurchase.feature"],
+   
    // Patterns to exclude.
    exclude: [
       // 'path/to/excluded/files'
